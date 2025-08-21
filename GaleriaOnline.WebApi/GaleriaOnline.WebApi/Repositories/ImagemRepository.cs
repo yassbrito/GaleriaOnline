@@ -41,7 +41,7 @@ namespace GaleriaOnline.WebApi.Repositories
         public async Task<bool> DeleteAsync(int id)
         {
             var imagem = await _context.Imagens.FindAsync(id);
-            if (imagem != null)
+            if (imagem == null)
             {
                 return false;
             }
