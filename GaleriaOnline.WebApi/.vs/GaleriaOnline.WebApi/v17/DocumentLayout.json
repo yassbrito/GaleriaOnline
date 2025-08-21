@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
               "ToolTip": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
               "RelativeToolTip": "GaleriaOnline.WebApi\\Repositories\\ImagemRepository.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDAAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-21T12:04:59.34Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "GaleriaOnline.WebApi\\DTO\\ImagemDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:02:22.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:02:22.351Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "GaleriaOnline.WebApi\\interfaces\\IImagemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:00:35.037Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T12:00:35.037Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "GaleriaOnline.WebApi\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T11:22:07.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-21T11:22:07.265Z"
             }
           ]
         }
