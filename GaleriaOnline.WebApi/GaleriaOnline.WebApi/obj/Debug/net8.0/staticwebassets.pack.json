@@ -1,8 +1,24 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\cb45a85e-44c2-4527-95e7-bee7c761dfb3.png",
-      "PackagePath": "staticwebassets\\imagens\\cb45a85e-44c2-4527-95e7-bee7c761dfb3.png"
+      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\636f66a1-9fd7-4a7d-b812-ae2b8326456b.jpg",
+      "PackagePath": "staticwebassets\\imagens\\636f66a1-9fd7-4a7d-b812-ae2b8326456b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\9a4cbbba-eab8-4d60-a791-bb1a3a86afcd.gif",
+      "PackagePath": "staticwebassets\\imagens\\9a4cbbba-eab8-4d60-a791-bb1a3a86afcd.gif"
+    },
+    {
+      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\9c5f99b9-1f28-4fae-99e0-9461ca9b0cc5.gif",
+      "PackagePath": "staticwebassets\\imagens\\9c5f99b9-1f28-4fae-99e0-9461ca9b0cc5.gif"
+    },
+    {
+      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\a8646391-cc9f-4737-800b-7835f35bbe89.jpg",
+      "PackagePath": "staticwebassets\\imagens\\a8646391-cc9f-4737-800b-7835f35bbe89.jpg"
+    },
+    {
+      "Id": "C:\\Users\\48665566848\\Desktop\\GaleriaOnline\\GaleriaOnline.WebApi\\GaleriaOnline.WebApi\\wwwroot\\imagens\\c50e3dc4-c90d-4526-aac6-6634eeafa469.gif",
+      "PackagePath": "staticwebassets\\imagens\\c50e3dc4-c90d-4526-aac6-6634eeafa469.gif"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.GaleriaOnline.WebApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
